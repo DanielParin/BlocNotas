@@ -1,0 +1,17 @@
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\bin\Debug\net7.0-windows\Bloc de Notas.exe
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\bin\Debug\net7.0-windows\Bloc de Notas.deps.json
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\bin\Debug\net7.0-windows\Bloc de Notas.runtimeconfig.json
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\bin\Debug\net7.0-windows\Bloc de Notas.dll
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\bin\Debug\net7.0-windows\Bloc de Notas.pdb
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\obj\Debug\net7.0-windows\Bloc_de_Notas.BlocNotas.resources
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\obj\Debug\net7.0-windows\Bloc_de_Notas.Properties.Resources.resources
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\obj\Debug\net7.0-windows\Bloc de Notas.csproj.GenerateResource.cache
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\obj\Debug\net7.0-windows\Bloc de Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\obj\Debug\net7.0-windows\Bloc de Notas.AssemblyInfoInputs.cache
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\obj\Debug\net7.0-windows\Bloc de Notas.AssemblyInfo.cs
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\obj\Debug\net7.0-windows\Bloc de Notas.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\obj\Debug\net7.0-windows\Bloc de Notas.dll
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\obj\Debug\net7.0-windows\refint\Bloc de Notas.dll
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\obj\Debug\net7.0-windows\Bloc de Notas.pdb
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\obj\Debug\net7.0-windows\Bloc de Notas.genruntimeconfig.cache
+C:\Users\Daniel\OneDrive\Escritorio\Grado\Desarrollo de Interfaces\Prácticas\Bloc de Notas\obj\Debug\net7.0-windows\ref\Bloc de Notas.dll
